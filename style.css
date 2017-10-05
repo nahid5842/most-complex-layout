@@ -1,0 +1,158 @@
+*{margin: 0;padding: 0;}
+.left{float: left;}
+.right{float: right;}
+.header {
+	height: 100px;
+	border: 1px solid black;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+
+.content {
+	overflow: hidden;
+	min-height: 600px;
+	border: 1px solid black;
+	box-sizing: border-box;
+}
+
+.sidebar_wrapper {
+	min-height: 418px;
+	width: 200px;
+	margin-bottom: 10px;
+}
+.top_sidebar{
+width: 180px;
+height: 150px;
+border: 1px solid black;
+box-sizing: border-box;
+margin: 10px auto;
+}
+.bottom_sidebar{
+width: 180px;
+height: 230px;
+margin: 0 auto;
+border: 1px solid black;
+box-sizing: border-box;
+
+}
+
+.main_content_wrapper {
+min-height: 400px;
+width: 1050px;
+margin-bottom: 10px;
+
+}
+
+.content_top_wrapper {
+	width: 95%;
+	min-height: 195px;
+	margin: 5px auto;
+}
+
+.content_top_left {
+height: 195px;
+width: 60%;
+}
+
+.content_top_up_wrapper {
+height: 100px;
+width: 100%;
+}
+
+.content_top_up_1 {
+height: 100px;
+width: 49%;
+border: 1px solid black;
+box-sizing: border-box;
+}
+
+.content_top_up_2 {
+height: 100px;
+width: 49%;
+border: 1px solid black;
+box-sizing: border-box;
+}
+
+.content_top_down_wrapper {
+height: 85px;
+width: 100%;
+border: 1px solid black;
+box-sizing: border-box;
+margin-top: 5px;
+}
+
+.content_top_right {
+height: 195px;
+width: 39%;
+border: 1px solid black;
+box-sizing: border-box;
+}
+
+.content_middle {
+	width: 95%;
+	height: 100px;
+	border: 1px solid black;
+	box-sizing: border-box;
+	margin: 0 auto;
+}
+
+.content_bottom_wrapper {
+	width: 95%;
+	height: 100px;
+	margin: 5px auto;
+}
+
+.content_bottom_left {
+	width: 35%;
+	min-height: 100px;
+	border: 1px solid black;
+	box-sizing: border-box;
+}
+
+.content_bottom_right {
+	width: 63%;
+	min-height: 100px;
+	border: 1px solid black;
+	box-sizing: border-box;
+}
+
+.add {
+	width: 95%;
+	height: 100px;
+	border: 1px solid black;
+	box-sizing: border-box;
+	margin: 10px auto;
+	clear: both;
+}
+
+.footer_top_wrapper {
+	height: 100px;
+	
+
+}
+
+.footer_top_left {
+	width: 40%;
+	height: 90px;
+	border: 1px solid black;
+	box-sizing: border-box;
+	margin-top: 5px;
+	margin-left: 5px;
+}
+
+.footer_top_right {
+	width: 58%;
+	height: 90px;
+	border: 1px solid black;
+	box-sizing: border-box;
+	margin-top: 5px;
+	margin-right: 5px;
+}
+
+.footer {
+	overflow: hidden;
+	height: 100px;
+	border: 1px solid black;
+	box-sizing: border-box;
+	overflow: hidden;
+}
